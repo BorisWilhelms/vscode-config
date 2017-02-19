@@ -17,5 +17,10 @@
 	"ToDo Comment": {
 		"prefix": "todo",
 		"body": "//TODO [BW]: $0"
+	},
+
+	"TComment": {
+		"prefix": "comment",
+		"body": "//[BW]: $0"
 	}
 }
