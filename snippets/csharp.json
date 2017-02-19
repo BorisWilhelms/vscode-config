@@ -19,7 +19,7 @@
 		"body": "//TODO [BW]: $0"
 	},
 
-	"TComment": {
+	"Comment": {
 		"prefix": "comment",
 		"body": "//[BW]: $0"
 	}
