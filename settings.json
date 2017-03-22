@@ -1,4 +1,9 @@
 {
-    "window.zoomLevel": 0,
-    "window.reopenFolders": "none"
+    "editor.minimap.enabled": true,
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "boundary",
+    "window.zoomLevel": 1,
+    "window.reopenFolders": "none",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "typescript.useCodeSnippetsOnMethodSuggest": true
 }
