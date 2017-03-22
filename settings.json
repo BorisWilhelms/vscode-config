@@ -5,5 +5,7 @@
     "window.zoomLevel": 1,
     "window.reopenFolders": "none",
     "workbench.colorTheme": "Visual Studio Dark",
-    "typescript.useCodeSnippetsOnMethodSuggest": true
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.projectDetection.disableDetect": true
 }
