@@ -9,5 +9,13 @@
     "workbench.iconTheme": "vscode-icons",
     "vsicons.projectDetection.disableDetect": true,
     "files.autoSave": "onFocusChange",
-    "tslint.autoFixOnSave": true
+    "tslint.autoFixOnSave": true,
+    "cSpell.userWords": [
+        "Webapp",
+        "onclick",
+        "Injectable",
+        "vrsg",
+        "devextreme",
+        "Truthy"
+    ]
 }
