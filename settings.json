@@ -4,7 +4,6 @@
     "editor.renderWhitespace": "boundary",
     "window.zoomLevel": 1,
     "window.reopenFolders": "none",
-    "workbench.colorTheme": "Visual Studio Dark",
     "typescript.useCodeSnippetsOnMethodSuggest": true,
     "workbench.iconTheme": "vscode-icons",
     "vsicons.projectDetection.disableDetect": true,
@@ -16,6 +15,37 @@
         "Injectable",
         "vrsg",
         "devextreme",
-        "Truthy"
-    ]
+        "Truthy",
+        "Wilhelms",
+        "appsetting",
+        "Stackoverflow",
+        "mandant",
+        "mandanten",
+        "Pojo",
+        "Organisation",
+        "organisations",
+        "'steuern'",
+        "Steuern"
+    ],
+    "cSpell.enabledLanguageIds": [
+        "c",
+        "cpp",
+        "csharp",
+        "go",
+        "javascript",
+        "javascriptreact",
+        "latex",
+        "markdown",
+        "php",
+        "plaintext",
+        "python",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+    "javascript.implicitProjectConfig.checkJs": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe"
 }
