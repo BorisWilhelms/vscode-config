@@ -2,11 +2,12 @@
     "editor.minimap.enabled": true,
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.showFoldingControls": "always",
     "window.zoomLevel": 1,
     "window.reopenFolders": "none",
     "typescript.useCodeSnippetsOnMethodSuggest": true,
-    "workbench.iconTheme": "vscode-icons",
-    "vsicons.projectDetection.disableDetect": true,
     "files.autoSave": "onFocusChange",
     "tslint.autoFixOnSave": true,
     "cSpell.userWords": [
@@ -25,7 +26,12 @@
         "Organisation",
         "organisations",
         "'steuern'",
-        "Steuern"
+        "Steuern",
+        "golang",
+        "grpc",
+        "bson",
+        "gopkg",
+        "protobuf"
     ],
     "cSpell.enabledLanguageIds": [
         "c",
@@ -45,7 +51,13 @@
         "yml"
     ],
     "javascript.implicitProjectConfig.checkJs": true,
-    "vsicons.dontShowNewVersionMessage": true,
-    "workbench.colorTheme": "One Dark Pro",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe"
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.liveErrors": {
+        "enabled": true,
+        "delay": 500
+    },
+    "go.enableCodeLens": {
+        "references": true,
+        "runtest": true
+    }
 }
