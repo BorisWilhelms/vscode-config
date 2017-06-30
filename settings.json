@@ -1,13 +1,12 @@
 {
-    "editor.minimap.enabled": true,
+    "editor.minimap.enabled": false,
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
     "editor.formatOnSave": true,
+    "editor.showFoldingControls": "always",
     "window.zoomLevel": 1,
     "window.reopenFolders": "none",
     "typescript.useCodeSnippetsOnMethodSuggest": true,
-    "workbench.iconTheme": "vscode-icons",
-    "vsicons.projectDetection.disableDetect": true,
     "files.autoSave": "onFocusChange",
     "tslint.autoFixOnSave": true,
     "cSpell.userWords": [
@@ -30,12 +29,22 @@
         "Validators",
         "Postalcode",
         "Sirona",
-        "Thinktecture"
+        "Thinktecture",
+        "golang",
+        "grpc",
+        "bson",
+        "gopkg",
+        "protobuf",
+        "cors",
+        "if (this._organisationUnitSubject.isEmpty().subscribe(r => {\r\n      if (r) {\r\n        this.refreshPrganisationUnits();\r\n      }\r\n    });",
+        "startuml",
+        "enduml"
     ],
     "cSpell.enabledLanguageIds": [
         "c",
         "cpp",
         "csharp",
+        "diagram",
         "go",
         "javascript",
         "javascriptreact",
@@ -54,5 +63,14 @@
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
     "omnisharp.projectLoadTimeout": 120,
     "csharpextensions.privateMemberPrefix": "_",
-    "csharpextensions.useThisForCtorAssignments": false
+    "csharpextensions.useThisForCtorAssignments": false,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.liveErrors": {
+        "enabled": true,
+        "delay": 500
+    },
+    "go.enableCodeLens": {
+        "references": true,
+        "runtest": true
+    }
 }
