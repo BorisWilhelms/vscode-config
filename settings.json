@@ -1,5 +1,5 @@
 {
-    "editor.minimap.enabled": true,
+    "editor.minimap.enabled": false,
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
     "editor.formatOnType": true,
@@ -31,12 +31,17 @@
         "grpc",
         "bson",
         "gopkg",
-        "protobuf"
+        "protobuf",
+        "cors",
+        "if (this._organisationUnitSubject.isEmpty().subscribe(r => {\r\n      if (r) {\r\n        this.refreshPrganisationUnits();\r\n      }\r\n    });",
+        "startuml",
+        "enduml"
     ],
     "cSpell.enabledLanguageIds": [
         "c",
         "cpp",
         "csharp",
+        "diagram",
         "go",
         "javascript",
         "javascriptreact",
