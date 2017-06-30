@@ -2,6 +2,7 @@
     "editor.minimap.enabled": true,
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
+    "editor.formatOnSave": true,
     "window.zoomLevel": 1,
     "window.reopenFolders": "none",
     "typescript.useCodeSnippetsOnMethodSuggest": true,
@@ -25,7 +26,11 @@
         "Organisation",
         "organisations",
         "'steuern'",
-        "Steuern"
+        "Steuern",
+        "Validators",
+        "Postalcode",
+        "Sirona",
+        "Thinktecture"
     ],
     "cSpell.enabledLanguageIds": [
         "c",
@@ -46,6 +51,8 @@
     ],
     "javascript.implicitProjectConfig.checkJs": true,
     "vsicons.dontShowNewVersionMessage": true,
-    "workbench.colorTheme": "One Dark Pro",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe"
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "omnisharp.projectLoadTimeout": 120,
+    "csharpextensions.privateMemberPrefix": "_",
+    "csharpextensions.useThisForCtorAssignments": false
 }
