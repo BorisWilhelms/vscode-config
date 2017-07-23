@@ -10,51 +10,6 @@
     "typescript.useCodeSnippetsOnMethodSuggest": true,
     "files.autoSave": "onFocusChange",
     "tslint.autoFixOnSave": true,
-    "cSpell.userWords": [
-        "Webapp",
-        "onclick",
-        "Injectable",
-        "vrsg",
-        "devextreme",
-        "Truthy",
-        "Wilhelms",
-        "appsetting",
-        "Stackoverflow",
-        "mandant",
-        "mandanten",
-        "Pojo",
-        "Organisation",
-        "organisations",
-        "'steuern'",
-        "Steuern",
-        "golang",
-        "grpc",
-        "bson",
-        "gopkg",
-        "protobuf",
-        "cors",
-        "if (this._organisationUnitSubject.isEmpty().subscribe(r => {\r\n      if (r) {\r\n        this.refreshPrganisationUnits();\r\n      }\r\n    });",
-        "startuml",
-        "enduml"
-    ],
-    "cSpell.enabledLanguageIds": [
-        "c",
-        "cpp",
-        "csharp",
-        "diagram",
-        "go",
-        "javascript",
-        "javascriptreact",
-        "latex",
-        "markdown",
-        "php",
-        "plaintext",
-        "python",
-        "text",
-        "typescript",
-        "typescriptreact",
-        "yml"
-    ],
     "javascript.implicitProjectConfig.checkJs": true,
     "go.useCodeSnippetsOnFunctionSuggest": true,
     "go.liveErrors": {
@@ -64,5 +19,11 @@
     "go.enableCodeLens": {
         "references": true,
         "runtest": true
-    }
+    },
+    "typescript.check.tscVersion": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/build": true
+    },
 }
